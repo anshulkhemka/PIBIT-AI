@@ -1,0 +1,127 @@
+{
+  "name": "Anshul Khemka",
+  "title": "Machine Learning Engineer",
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/anshul-khemka74",
+    "email": "akhemka.74@gmail.com",
+    "github": "https://github.com/anshulkhemka",
+    "mobile": "+91-7698075941"
+  },
+  "skills": {
+    "languages": ["Python", "C++", "Java"],
+    "frameworks": ["TensorFlow/Keras", "Scikit-Learn", "OpenCV", "HTML", "CSS"],
+    "tools_platforms": ["Git", "Bash", "Linux", "Adobe Photoshop", "MySQL", "Oracle", "Rapidminer", "Jira", "Selenium", "Microsoft Office"],
+    "other_tech_skills": ["RNN", "LSTM", "GRU", "NLP", "Deep Learning", "Research and Documentation", "DSA"],
+    "soft_skills": ["Leadership", "Adaptability", "Communication", "Critical thinking", "Problem Solving", "Team Management"]
+  },
+  "projects": [
+    {
+      "title": "Bank Marketing Project",
+      "date": "Feb'24",
+      "description": "The goal of this project is to predict whether a bank client will subscribe to a term deposit based on various customer and campaign-related attributes, thereby enabling the bank to better target its marketing efforts.",
+      "technologies": ["Python", "Machine Learning", "Neural Network"]
+    },
+    {
+      "title": "Churn Prediction",
+      "date": "May'24",
+      "description": "The goal of this project is to analyze various customer attributes and behaviors, the project aims to identify the factors leading to churn and build a predictive model to forecast which customers are likely to leave the service.",
+      "technologies": ["Machine Learning", "XGBoost", "GridSearchCV"]
+    },
+    {
+      "title": "Social Media Recommender System",
+      "date": "Aug'23",
+      "description": "The goal of this project is to create a model that uses KNN to create a recommender system for Social Media. Use of recommended system model, NLP and Unsupervised learning.",
+      "technologies": ["Machine Learning", "Recommender System", "NLP"]
+    },
+    {
+      "title": "House Price Prediction",
+      "date": "Apr'23",
+      "description": "The goal of this project is to create a model that can estimate the price of house based on various features.",
+      "technologies": ["Machine Learning", "Scikit-Learn", "Neural Network"]
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Database Management System Part-2",
+      "provider": "Infosys Springboard",
+      "date": "Jun'24"
+    },
+    {
+      "title": "Database Management System Part-1",
+      "provider": "Infosys Springboard",
+      "date": "Mar'24"
+    },
+    {
+      "title": "Natural Language Processing with Probabilistic Models",
+      "provider": "DeepLearning.AI",
+      "date": "Mar'23"
+    },
+    {
+      "title": "Natural Language Processing with Classification and Vector Spaces",
+      "provider": "DeepLearning.AI",
+      "date": "Apr'23"
+    },
+    {
+      "title": "The Android Oreo and Java Developer Course – Build Apps",
+      "date": "Jul'21"
+    },
+    {
+      "title": "Geeks for Geeks DSA Self Paced",
+      "date": "Jun'22"
+    }
+  ],
+  "achievements": [
+    {
+      "description": "One among Dean’s top 10% students at University for good academic performance and extra-curricular activities at University."
+    },
+    {
+      "description": "Participated in Tech-a-Thon",
+      "date": "Nov'22"
+    },
+    {
+      "description": "Participated in various Ai/ML workshops",
+      "date": "May'21"
+    },
+    {
+      "description": "Participated in Aashray Premier League",
+      "date": "Apr'23"
+    }
+  ],
+  "publications_and_conference_certificates": [
+    {
+      "title": "SMARTNEST: An Automation System using IOT and ML",
+      "role": "ML Lead",
+      "date": "Oct'23",
+      "conference": "International Conference in Emerging Trends in IOT and Computing Technologies (ICEICT 2023)",
+      "description": "Build a SmartHome using arduino capabilities and IOT sensors. Includes sensors like flame, temperature, automated fan."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "location": "Punjab, India",
+      "degree": "Integrated B.Tech + M.Tech",
+      "field": "Computer Science and Engineering",
+      "cgpa": "8.37",
+      "start_date": "August 2020"
+    },
+    {
+      "institution": "Welspun Vidya Mandir",
+      "location": "Gandhidham, Gujarat",
+      "level": "Senior Secondary",
+      "board": "CBSE",
+      "percentage": "90.6%",
+      "start_date": "April 2018",
+      "end_date": "March 2020"
+    },
+    {
+      "institution": "Welspun Vidya Mandir",
+      "location": "Gandhidham, Gujarat",
+      "level": "Secondary",
+      "board": "CBSE",
+      "percentage": "81%",
+      "start_date": "April 2016",
+      "end_date": "March 2018"
+    }
+  ]
+}
